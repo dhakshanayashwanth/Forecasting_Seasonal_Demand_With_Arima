@@ -1,1 +1,1 @@
-# Walmart (In-Progress)
+# Forecasting Seasonal Demand Using Arima (In-Progress)
